@@ -4,6 +4,7 @@ This repo holds some custom Xcode extensions that can be used to add
 functionality to Xcode in a simple way.
 
 There are a few types of extensions:
+
 * Convenience Classes
 * File Templates
 * User Scripts
