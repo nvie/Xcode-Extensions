@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>A nice subclass of VDSimpleFetchedResultsController, which handles straight-forward fetches based on a Core Data entity and a sort key and optionally categorizes fetches into sections, too. The only work left is to implement tableView:cellForIndexPath: and didSelectRowAtIndexPath: manually. Also, make sure to call [self fetch:&amp;error] in the -viewDidLoad method.</string>
+	<key>MainTemplateFile</key>
+	<string>main.m</string>
+	<key>CounterpartTemplateFile</key>
+	<string>main.h</string>
+</dict>
+</plist>
