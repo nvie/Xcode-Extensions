@@ -5,9 +5,9 @@ functionality to Xcode in a simple way.
 
 There are a few types of extensions:
 
-* Convenience Classes
-* File Templates
-* User Scripts
+*	Convenience Classes
+*	File Templates
+*	User Scripts
 
 Convenience Classes
 -------------------
