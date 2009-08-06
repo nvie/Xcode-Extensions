@@ -1,2 +1,27 @@
-=== mmm
-===
+Xcode Extensions
+================
+This repo holds some custom Xcode extensions that can be used to add
+functionality to Xcode in a simple way.
+
+There are a few types of extensions:
+* Convenience Classes
+* File Templates
+* User Scripts
+
+Convenience Classes
+-------------------
+These classes can be randomly included in every project. They are either
+classes that capture common functionality or implementations that put
+categories on already existing framework objects.
+
+File Templates
+--------------
+File templates are templates that are used to setup new source files when you
+choose File > New File... (Cmd+N) from the Xcode menu. They are intended to set
+you up instantly with a pre-written body of code that only needs to be
+configured once.
+
+User Scripts
+------------
+These are handy little scripts to automate some of your Xcode workflow. They
+can be installed in the Scripts menu, under Edit User Scripts...
